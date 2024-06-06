@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-06-06T05:27:22-00:00</lastmod>
+<lastmod>2024-06-06T05:40:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-06-06T05:27:22-00:00</lastmod>
+<lastmod>2024-06-06T05:40:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-06-06T05:27:22-00:00</lastmod>
+<lastmod>2024-06-06T05:40:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-06-06T05:27:22-00:00</lastmod>
+<lastmod>2024-06-06T05:40:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -40,7 +40,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./41123222 w15.html</loc>
-<lastmod>2024-06-06T05:27:21+08:00</lastmod>
+<lastmod>2024-06-06T05:40:11+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -173,7 +173,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/41123222-bg5-w15.html</loc>
-<lastmod>2024-06-06T05:27:21+08:06</lastmod>
+<lastmod>2024-06-06T05:40:11+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -222,14 +222,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/wang-zhi-bian-xie.html</loc>
-<lastmod>2024-06-06T05:27:21+08:06</lastmod>
+<lastmod>2024-06-06T05:40:11+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/41123222.html</loc>
-<lastmod>2024-06-06T05:27:21+08:06</lastmod>
+<lastmod>2024-06-06T05:40:11+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
